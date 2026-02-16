@@ -5,3 +5,8 @@ var c = "Hello ".concat(b);
 var num = 30;
 var str = num.toString(); // string to number converted
 var str2 = str + ''; // string to number converted
+console.log(str2);
+var bool = true;
+var stringBol = bool.toString();
+// console.log(stringBol)
+console.log(bool);
