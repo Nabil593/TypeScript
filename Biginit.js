@@ -1,4 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-const num = 30;
-console.log(num);
+var a = BigInt(90071992547409910n);
+var x = 1n;
+var y = 2n;
+var z = a + x;
+console.log(z);
