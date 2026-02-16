@@ -1,9 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var called = 'Setup';
 var num1 = 12;
 var num2 = 14;
 var sum = num1 + num2;
-var otc = 32769;
-var binary = 21;
+var otc = 0o100001;
+var binary = 0b10101;
 var hex = 0x00001;
 var item1 = 10;
 var item2 = '20';
