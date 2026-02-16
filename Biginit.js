@@ -1,5 +1,7 @@
-var a = BigInt(90071992547409910n);
-var x = 1n;
-var y = 2n;
-var z = a + x;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const a = 90071992547409910n;
+const x = 1n;
+const y = 2n;
+const z = a + x;
 console.log(z);
