@@ -1,17 +1,15 @@
-const a = Symbol();
-const b = Symbol();
-// console.log(a == b);
+// const a = Symbol();
+// const b = Symbol();
+// // console.log(a == b);
 
 
-const did = Symbol('id');
+// const did = Symbol('id');
 
-const obj = {
-    [did]: 23,
-    nameMe: 'Nabil',
-}
+// const obj = {
+//     [did]: 23,
+//     nameMe: 'Nabil',
+// }
 
-for (let key in obj) {
-  console.log(key);
-}
-
-console.log(key);
+// for (let key in obj) {
+//   console.log(key);
+// }
