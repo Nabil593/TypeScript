@@ -5,4 +5,4 @@ a = 10;
 a = true;
 a = [1, 2, 3];
 a = { name: "Stark", age: 30 };
-console.log(a);
+// console.log(a);
