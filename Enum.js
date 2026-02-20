@@ -19,4 +19,4 @@ var whoType;
 })(whoType || (whoType = {}));
 ;
 const n = whoType.Captain;
-console.log(n);
+console.log(n); // output: 1
