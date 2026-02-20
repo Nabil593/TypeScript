@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var a = 'Hello';
 var b = 20;
 var c = `Hello ${b}`;
@@ -12,3 +10,4 @@ var bool = true;
 var stringBol = bool.toString();
 // console.log(stringBol)
 console.log(bool);
+export {};

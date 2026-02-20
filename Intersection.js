@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const a = { name: 'Nabil' };
 const b = { age: 19 };
 const c = {
@@ -7,3 +5,4 @@ const c = {
     age: 19,
 };
 console.log(c);
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 ; // this is a Interface.
 const student = {
     name: "Stark",
@@ -18,3 +16,4 @@ const managment = {
     isStudent: true,
 };
 console.log(teacher);
+export {};

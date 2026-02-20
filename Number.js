@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var called = 'Setup';
 var num1 = 12;
 var num2 = 14;
@@ -15,3 +13,4 @@ var itemSum = item1 + +item2; // Also shortcut mathod
 console.log(itemSum);
 var data = 30; // multi data type  added in variable.
 data = 'Nabil';
+export {};

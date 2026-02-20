@@ -1,11 +1,9 @@
-"use strict";
 // enum whoType {
 //     Iron_Man = "Iron Man",
 //     Captain = 'Captain America',
 //     Thor = 'Thor',
 //     Hulk = 'Hulk',
 // };
-Object.defineProperty(exports, "__esModule", { value: true });
 // let a: whoType = whoType.Iron_Man;
 // a = whoType.Thor;
 // console.log(a);
@@ -20,3 +18,4 @@ var whoType;
 ;
 const n = whoType.Captain;
 console.log(n); // output: 1
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function fruite() {
     return 'Apple';
 }
@@ -13,3 +11,4 @@ function anyType() {
     return a + b;
 }
 console.log(anyType());
+export {};
